@@ -34,9 +34,6 @@ I now know a great deal about the business world and how to remain relevant. we 
 
 Newletter Of Petronas and Huawei : https://github.com/namson256/technology-information-system/blob/main/industry%20Visit%20Petronas%20and%20Huawei/Newsletter%20Petronas%20and%20Huawei.pdf
 
-
-
-
 -------------------------
 
 o PC Assemble
