@@ -20,6 +20,7 @@ After the industrial tour at UTM Digital, I can now picture my future as a data 
 
 ![utm digital edit](https://github.com/namson256/technology-information-system/assets/155377702/b29fdb68-a1dd-4e6d-be16-664ba9f72e74)
 
+video UTM Digital visit : 
 
 ------------
 o Assignment 3 (Format: Report)
