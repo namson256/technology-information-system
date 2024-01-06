@@ -22,6 +22,18 @@ After the industrial tour at UTM Digital, I can now picture my future as a data 
 
 
 o Assignment 3 (Format: Report)
+
+------------
 o Assignment 4 (Format: Technical Paper IEEE Format)
-- PC Assemble (Lab)
-- Design Thinking (Low Fidelity Prototype) 
+
+-----------------
+
+
+o PC Assemble
+
+---------------
+
+
+o Design Thinking (Final project)
+
+
