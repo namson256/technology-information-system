@@ -43,7 +43,7 @@ A computer science student needs to be knowledgeable in everything related to co
 
 
 ![pc assemble edit](https://github.com/namson256/technology-information-system/assets/155377702/2c67c683-23d2-40e4-9928-826f1d3e826a)
-![design thinking edit](https://github.com/namson256/technology-information-system/assets/155377702/6c42f53f-d7ee-4c84-9974-832725b671cc)
+![pc edit](https://github.com/namson256/technology-information-system/assets/155377702/cceefaa7-d313-49c3-ab9d-66cbb940401b)
 
 ---------------
 
