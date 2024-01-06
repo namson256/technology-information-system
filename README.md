@@ -5,7 +5,8 @@ ASSIGMENT AND PROJECT
 
 Assignment 1 (Industry Talk with PPG and Habib)
 
-I have learned new knowledge in this session about the working environment and how to properly create a resume. 
+I learned fresh information about the working world at this talk, and the seniors who have already graduated from UTM with a bachelor's degree in computer science (data engineering),
+much like me, gave us advice on how to become employable.  
 
 o Assignment 2 (Format: Video)
 o Assignment 3 (Format: Report)
