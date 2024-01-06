@@ -30,6 +30,9 @@ o Assignment 4 (Format: Technical Paper IEEE Format)
 
 -----------------
 
+o Assignment 3 (Format: Report)
+
+-------------------------
 
 o PC Assemble
 
