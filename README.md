@@ -43,9 +43,6 @@ A computer science student needs to be knowledgeable in everything related to co
 
 ![pc assemble edit](https://github.com/namson256/technology-information-system/assets/155377702/2c67c683-23d2-40e4-9928-826f1d3e826a)
 
-
-
-
 ---------------
 
 o Design Thinking (Final project)
