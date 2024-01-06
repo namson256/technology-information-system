@@ -16,6 +16,7 @@ o Assignment 2 (Industry visit UTM Digital)
 
 After the industrial tour at UTM Digital, I can now picture my future as a data engineer or in any field involving servers and data much more clearly. this is because we had the chance to tour a data center and learn how to maintain the servers there. This has increased my desire to study computer science. 
 
+![utm digital edit](https://github.com/namson256/technology-information-system/assets/155377702/b29fdb68-a1dd-4e6d-be16-664ba9f72e74)
 
 
 o Assignment 3 (Format: Report)
