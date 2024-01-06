@@ -50,4 +50,10 @@ A computer science student needs to be knowledgeable in everything related to co
 
 o Design Thinking (Final project)
 
+Throughout the process of completing this design thinking assignment, I have learned new information about the computer science and IT industries. In order to turn in my work on time, I also master time management skills. Finally, given our task involves cloud computing and we have to implement certain current systems, my critical thinking skills have significantly improved.
+
+![design thinking edit](https://github.com/namson256/technology-information-system/assets/155377702/2ade37fc-1f6a-4dab-a5e7-1f45ea6fddda)
+
+report, prototype, and slide about the Design Thinking assignment :
+https://github.com/namson256/technology-information-system/tree/main/design%20thinking
 
