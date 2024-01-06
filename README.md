@@ -7,7 +7,7 @@ Assignment 1 (Industry Talk with PPG and Habib)
 
 I learned fresh information about the working world at this talk, and the seniors who have already graduated from UTM with a bachelor's degree in computer science (data engineering), much like me, gave us advice on how to become employable.  
 
-[https://github.com/namson256/technology-information-system/blob/main/industry%20Talk%20PPG%20and%20Habib/Industry%20Talk%20PPG%20and%20Habib.png](https://github.com/namson256/technology-information-system/tree/main/industry%20Talk%20PPG%20and%20Habib)
+https://github.com/namson256/technology-information-system/blob/main/industry%20Talk%20PPG%20and%20Habib/Industry%20Talk%20PPG%20and%20Habib.png
 
 o Assignment 2 (Format: Video)
 o Assignment 3 (Format: Report)
