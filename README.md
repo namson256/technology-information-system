@@ -38,8 +38,12 @@ Newletter Of Petronas and Huawei : https://github.com/namson256/technology-infor
 
 o PC Assemble
 
----------------
+A computer science student needs to be knowledgeable in everything related to computers, not simply programming and application creation. Thus, in this PC assembly section, we have learned how to assemble and disassemble the computer. I now know how to remove the RAM, power supply, and many other components. With this ability, I consider myself to be a respectable computer scientist.
 
+
+
+
+---------------
 
 o Design Thinking (Final project)
 
