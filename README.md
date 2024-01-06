@@ -9,6 +9,7 @@ I learned fresh information about the working world at this talk, and the senior
 
 ![ppg edit](https://github.com/namson256/technology-information-system/assets/155377702/cac25716-e613-461d-821d-866319f20e20)
 
+
 this is my poster :
 https://github.com/namson256/technology-information-system/blob/main/industry%20Talk%20PPG%20and%20Habib/Industry%20Talk%20PPG%20and%20Habib.png
 
@@ -42,6 +43,7 @@ A computer science student needs to be knowledgeable in everything related to co
 
 
 ![pc assemble edit](https://github.com/namson256/technology-information-system/assets/155377702/2c67c683-23d2-40e4-9928-826f1d3e826a)
+![design thinking edit](https://github.com/namson256/technology-information-system/assets/155377702/6c42f53f-d7ee-4c84-9974-832725b671cc)
 
 ---------------
 
