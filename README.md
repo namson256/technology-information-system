@@ -59,5 +59,5 @@ Throughout the process of completing this design thinking assignment, I have lea
 report, prototype, and slide about the Design Thinking assignment :
 https://github.com/namson256/technology-information-system/tree/main/design%20thinking
 
-video of design thinking : https://drive.google.com/drive/folders/1qFfOEy4d2w9fr5N6JITJUSm-yCKTQ-iQ?usp=sharing
+video of Design Thinking : https://youtu.be/CE6Zk46dy7M?si=a0skmZJmTwwck6Iu
 
