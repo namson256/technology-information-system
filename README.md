@@ -12,6 +12,7 @@ I learned fresh information about the working world at this talk, and the senior
 this is my poster :
 https://github.com/namson256/technology-information-system/blob/main/industry%20Talk%20PPG%20and%20Habib/Industry%20Talk%20PPG%20and%20Habib.png
 
+---------------------------------------------------------------------------------------------------
 
 o Assignment 2 (Industry visit UTM Digital)
 
