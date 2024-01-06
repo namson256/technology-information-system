@@ -1,4 +1,4 @@
-# technology-information-system
+# Technology Information System
 
 ASSIGMENT AND PROJECT
 ---------------------
