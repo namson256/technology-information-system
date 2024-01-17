@@ -32,7 +32,7 @@ o Assignment 3 (Industry Talk Credence)
 
 After listening to the industry discussion, I feel like I have a clearer idea of how I want to work in the future and what needs to be done to get ready to become a professional data engineer, like learning Python and SQL. The desire to learn something new and explore the technology on your own comes next because, as you are aware, technology has advanced dramatically and, as a student of data engineering, you must pursue lifelong learning to ensure your relevance in the field. Finally, never give up on what you are currently doing, and make every effort to ensure your success in the end.
 
-Academic Report Industry Talk : 
+Academic Report Industry Talk : https://github.com/namson256/technology-information-system/tree/main/Industry%20Talk%20credence 
 
 ------------
 o Assignment 4 (Industry Visit Petronas and Huawei)
