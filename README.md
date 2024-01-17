@@ -26,7 +26,13 @@ After the industrial tour at UTM Digital, I can now picture my future as a data 
 video UTM Digital visit : https://drive.google.com/drive/folders/12K6_p52vDNcbt2LSUwLqIH_teyTVohK9?usp=sharing
 
 ------------
-o Assignment 3 (Format: Report)
+o Assignment 3 (Industry Talk Credence)
+
+
+
+After listening to the industry discussion, I feel like I have a clearer idea of how I want to work in the future and what needs to be done to get ready to become a professional data engineer, like learning Python and SQL. The desire to learn something new and explore the technology on your own comes next because, as you are aware, technology has advanced dramatically and, as a student of data engineering, you must pursue lifelong learning to ensure your relevance in the field. Finally, never give up on what you are currently doing, and make every effort to ensure your success in the end.
+
+Academic Report Industry Talk : 
 
 ------------
 o Assignment 4 (Industry Visit Petronas and Huawei)
