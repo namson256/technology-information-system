@@ -1,6 +1,6 @@
-# Technology Information System
+# Technology And Information System
 
-ASSIGMENT AND PROJECT
+ASSINGMENT AND PROJECT
 ---------------------
 
 o Assignment 1 (Industry Talk with PPG and Habib)
