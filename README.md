@@ -28,6 +28,7 @@ video UTM Digital visit : https://drive.google.com/drive/folders/12K6_p52vDNcbt2
 ------------
 o Assignment 3 (Industry Talk Credence)
 
+![credence](https://github.com/namson256/technology-information-system/assets/155377702/80b80b82-8be5-456b-81bc-20a24be800e1)
 
 
 After listening to the industry discussion, I feel like I have a clearer idea of how I want to work in the future and what needs to be done to get ready to become a professional data engineer, like learning Python and SQL. The desire to learn something new and explore the technology on your own comes next because, as you are aware, technology has advanced dramatically and, as a student of data engineering, you must pursue lifelong learning to ensure your relevance in the field. Finally, never give up on what you are currently doing, and make every effort to ensure your success in the end.
